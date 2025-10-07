@@ -1,4 +1,4 @@
-# Yo, What’s Up! 🏀🔥
+# 🚀 Yo, What’s Up! 🏀🔥
 
 <div align="center">
 
@@ -8,13 +8,13 @@
 
 🎂 **Born:** June 16, 2000  
 🌎 **Pronouns:** He / His  
-🎯 **Hustles & Passions:** Beats 🎵 | Gaming 🎮 | Coding 🌍 | Anime 🎌 | Ballin’ 🏀  
+🎯 **Passions & Hustles:** Beats 🎵 | Gaming 🎮 | Code Streets 🌍 | Anime 🎌 | Ballin’ 🏀  
 
 ---
 
-## 🛠️ Tech Game  
+## 🛠️ Tech Stack – My Playground  
 
-### 🌐 Frontend Hustle
+### 🌐 **Frontend Hustle**
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </div>
 
-### ⚙️ Backend Moves
+### ⚙️ **Backend Moves**
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -34,13 +34,13 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-### 🗄️ Databases
+### 🗄️ **Databases**  
 <div align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-### 🏗️ Mindset & Architecture
+### 🏗️ **Mindset & Architecture**
 <div align="center">
 <img src="https://img.shields.io/badge/SPA-Single%20Page%20Applications-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blueviolet?style=for-the-badge"/>
@@ -48,14 +48,14 @@
 
 ---
 
-## 💡 Motivation
-> *"Stay humble, grind hard"* ✨  
-> *"Peace, beats, and hustle"* 🍷  
-> *"Leveling up life through code"* 🚀  
+## 💡 Motivation & Flow
+> *"Stay humble. Grind hard. Ball harder."* 🏀  
+> *"Peace, beats & hustle every day"* 🎵  
+> *"Leveling up life through code and street smarts"* 🚀  
 
 ---
 
-### 📫 Hit Me Up!
+### 📫 **Hit Me Up!**
 <div align="center">
 <a href="https://www.linkedin.com/in/danilsonjuniorbengui/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
