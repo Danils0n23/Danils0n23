@@ -113,4 +113,3 @@ Além do código, sou movido pela **experiência do desenvolvedor**, **mentoria 
 </div>
 
 
-</script>
