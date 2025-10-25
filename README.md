@@ -1,69 +1,73 @@
 # 👨‍💻 Danilson Júnior Bengui
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  <a href="#english">English</a> • <a href="#português">Português</a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+</div>
 
 ---
-
-## <a id="português"></a>🇧🇷 Português (padrão)
-
-<details open>
-  <summary><strong>Mostrar/ocultar conteúdo em Português</strong></summary>
-
-## 💼 Sobre Mim
-Sou **Desenvolvedor Full Stack** focado em **soluções escaláveis**, **interfaces modernas** e **código limpo**.  
-Aplico **Clean Code**, **SOLID** e **DDD** para entregar software **eficiente, previsível e elegante**.
-
-## 🧠 Competências
-- **Frontend:** arquitetura modular, responsividade, acessibilidade  
-- **Backend:** APIs REST, modelagem de domínio, performance  
-- **Arquitetura:** Clean Architecture, microserviços, eventos  
-- **Qualidade:** CI/CD, Playwright, Vitest, ESLint, Husky
-
-## 🧩 Stack
-**Frontend:** React, TypeScript, Tailwind, Vue  
-**Backend:** Node.js, Express, TypeORM  
-**DB:** PostgreSQL, MySQL, MongoDB, SQL Server
-
-## 📈 Filosofia
-> “Código é comunicação. Cada commit deve gerar valor.”
-
-## 🌍 Conecte-se
-[LinkedIn](https://www.linkedin.com/in/danilsonjuniorbengui/) • [GitHub](https://github.com/Danils0n23)
-
-</details>
-
----
-
-## <a id="english"></a>🇺🇸 English
-
-<details>
-  <summary><strong>Show/hide English content</strong></summary>
 
 ## 💼 About Me
-I’m a **Full Stack Developer** focused on **scalable, reliable, and maintainable software**.  
-I apply **Clean Code**, **SOLID**, and **DDD** to deliver **predictable, efficient, and elegant** systems.
+
+I’m a **Full Stack Developer** passionate about building **scalable, reliable, and maintainable software**.  
+I believe software engineering is more than just writing code — it’s about **creating long-term value** through **clarity, consistency, and purpose**.
+
+With a strong foundation in **frontend engineering**, **backend architecture**, and **system design**, I apply principles like **Clean Code**, **SOLID**, and **Domain-Driven Design (DDD)** to deliver **predictable, efficient, and elegant** solutions.
+
+Beyond coding, I focus on **developer experience**, **team mentorship**, and **engineering culture**, with an emphasis on **testing**, **CI/CD automation**, and **code quality**.
+
+---
 
 ## 🧠 Core Competencies
-- **Frontend:** modular architecture, responsive UI, accessibility  
-- **Backend:** REST APIs, domain modeling, performance  
-- **Architecture:** Clean Architecture, microservices, event-driven  
-- **Quality:** CI/CD, Playwright, Vitest, ESLint, Husky
+
+- **Frontend Architecture:** modular design systems, responsive UIs, accessibility-first development  
+- **Backend Engineering:** RESTful APIs, domain modeling, performance optimization  
+- **Software Architecture:** clean architecture, microservices, and event-driven design  
+- **DevOps & Testing:** CI/CD pipelines, Playwright, Vitest, ESLint, Husky  
+- **Collaboration:** agile workflow, documentation, and code review culture  
+
+---
 
 ## 🧩 Tech Stack
-**Frontend:** React, TypeScript, Tailwind, Vue  
-**Backend:** Node.js, Express, TypeORM  
-**DB:** PostgreSQL, MySQL, MongoDB, SQL Server
+
+### 🌐 Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+</div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white"/>
+</div>
+
+### 🧪 Testing & Quality
+<div align="center">
+  <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+</div>
+
+---
 
 ## 📈 Professional Philosophy
-> “Code is communication. Every commit should add value.”
 
-## 🌍 Connect
-[LinkedIn](https://www.linkedin.com/in/danilsonjuniorbengui/) • [GitHub](https://github.com/Danils0n23)
+> “Code is a craft — clarity, precision, and consistency transform it into art.”  
+> “Technology evolves, but engineering discipline endures.”  
+> “Every commit should add value — not just functionality.”
 
-</details>
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/danilsonjuniorbengui/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Danils0n23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
