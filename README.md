@@ -1,7 +1,8 @@
 # 👨‍💻 Danilson Júnior Bengui
 
 <div align="center">
-
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
+  <br/><br/>
   <button id="langToggle" onclick="toggleLanguage()" style="padding:10px 18px;background-color:#007bff;border:none;border-radius:6px;color:white;cursor:pointer;font-weight:600;">
     🌐 Switch to Portuguese
   </button>
@@ -112,4 +113,17 @@ Além do código, sou movido pela **experiência do desenvolvedor**, **mentoria 
   </a>
 </div>
 
+---
 
+<script>
+function toggleLanguage() {
+  const en = document.getElementById("en");
+  const pt = document.getElementById("pt");
+  const btn = document.getElementById("langToggle");
+  const showingEnglish = en.style.display !== "none";
+
+  en.style.display = showingEnglish ? "none" : "block";
+  pt.style.display = showingEnglish ? "block" : "none";
+  btn.innerText = showingEnglish ? "🌐 Switch to English" : "🌐 Mudar para Português";
+}
+</script>
